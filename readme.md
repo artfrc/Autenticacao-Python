@@ -1,4 +1,4 @@
-# Formulário de matricula
+# Autenticação Simples Python
 
 <p align="center">
 Projeto de uma API com foco na parte de autenticação de um usuário.
@@ -13,7 +13,6 @@ Projeto de uma API com foco na parte de autenticação de um usuário.
 <p align="center">
   <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="100%">
 </p>
-
 
 ## 🚀 Tecnologias
 
