@@ -11,7 +11,7 @@ Uma API que contém um CRUD de usuário, mas o foco principal é na parte de Aut
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/swagger.png.png" width="100%">
+  <img alt="Preview do projeto desenvolvido." src=".github/swagger.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
