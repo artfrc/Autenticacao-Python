@@ -41,7 +41,6 @@ def logout():
   
   return jsonify({"message": "Logout realizado  com sucesso"})
 
-
 @app.route('/user', methods=['POST'])
 def create_user():
   data = request.json

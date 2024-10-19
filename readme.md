@@ -1,7 +1,7 @@
 # Autenticação Simples Python
 
 <p align="center">
-Projeto de uma API com foco na parte de autenticação de um usuário.
+Uma API que contém um CRUD de usuário, mas o foco principal é na parte de Autenticação do usuário e também a criptografia de senhas.
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@ Projeto de uma API com foco na parte de autenticação de um usuário.
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="100%">
+  <img alt="Preview do projeto desenvolvido." src=".github/swagger.png.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -20,4 +20,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Python
 - Flask
-- SQLAlchemy
+- Flask-SQLAlchemy
+- Bcrypt
